@@ -1,0 +1,9 @@
+.cache
+.vscode
+/data
+/models
+/verl_log
+/verl_checkpoints
+__pycache__
+*.egg-info/
+*.log
